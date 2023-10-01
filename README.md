@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @abhishekchitte
-- 👀 I’m interested in Data Scientist Role
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Engineer Role
 - 📫 How to reach me abhichitte07@gmail.com
 
 <!---
